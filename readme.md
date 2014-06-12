@@ -11,6 +11,6 @@ Copy the module folder to your Puppet `modules` folder.
 ##Usage
 Livereload GulpJS Puppet package can be set up with the following parameters
 ```
-class {‘live reload’:]
+class {‘livereload’:]
    }
 ```
